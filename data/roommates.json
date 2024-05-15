@@ -1,0 +1,30 @@
+[
+  {
+    "id": "802ce662-d90f-4ea0-a065-9b989648554e",
+    "nombre": "Joachim Auer",
+    "email": "joachim.auer@example.com",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "id": "0ac37191-8941-40f6-b2bc-df5bd19ea67c",
+    "nombre": "Alisa Ollila",
+    "email": "alisa.ollila@example.com",
+    "debe": 0,
+    "recibe": 100
+  },
+  {
+    "id": "62629c47-2de0-44c3-bfb6-10cc71485626",
+    "nombre": "Krasnovida Vasko",
+    "email": "krasnovida.vasko@example.com",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "id": "de7d45b8-8c5e-4121-bd2e-ff7ea04291ae",
+    "nombre": "Sheryl Tucker",
+    "email": "sheryl.tucker@example.com",
+    "debe": 0,
+    "recibe": 0
+  }
+]
